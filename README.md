@@ -2,13 +2,15 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-2.0-orange)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Difficulty](https://img.shields.io/badge/Difficulty-Beginner-yellow)
+![Learning](https://img.shields.io/badge/Learning-C++-orange)
 
-# Gestionale biblioteca scolastica v.2.0
+# Management school library v2.0
 
 Programma per la gestione della biblioteca scolastica in C++ con interfaccia testuale.
 
 ## Caratteristiche principali
-
 - Gestione Utenti: anagrafica studenti e gestione degli omonimi.
 - Gestione Libri: CRUD completo con ricerca intelligente.
 - Gestione Prestiti: tracciamento prestiti e restituzioni.
@@ -16,7 +18,6 @@ Programma per la gestione della biblioteca scolastica in C++ con interfaccia tes
 - Interfaccia intuitiva: Menu testuali gerarchici e tabelle formattate.
 
 ## Architettura e tecnologie
-
 - Linguaggio: C++
 - Architettura: modulare con separazione MVC.
 - Strutture dati: struct per ogni entità di dati.
@@ -26,7 +27,6 @@ Programma per la gestione della biblioteca scolastica in C++ con interfaccia tes
 - Persistenza: file di binari per il salvataggio dei dati.
 
 ## Struttura del Progetto
-
 ```
 GestionaleBiblioteca/
 ├── main.cpp                 
@@ -52,7 +52,6 @@ GestionaleBiblioteca/
 3. **Esecuzione**: Run nell'IDE o eseguibile generato
 
 ## Utilizzo
-
 1. Avvia il Programma.
 2. Naviga i menu utilizzando i numeri.
 3. Inserisci libri e utenti seguendo i prompt.
@@ -60,7 +59,6 @@ GestionaleBiblioteca/
 5. I dati si salvano automaticamente all'uscita dei menu.
 
 ## Funzionalità dettagliate
-
 1. Modulo Libri:
 	- Inserimento nuovo libro con validazione.
 	- Modifica campi esistenti.
@@ -87,16 +85,13 @@ GestionaleBiblioteca/
 	- Messaggi utente chiari e specifici.
 
 ## Screenshot
-
 ![Screenshot](https://github.com/Gabri-dev-C/gestionale-biblioteca-scolastica-v2/blob/main/images/Cattura.PNG)
 
 ## Versioni
-
-- **[v2.0]https://github.com/Gabri-dev-C/gestionale-biblioteca-scolastica-v2** - Versione corrente (migliorata)
-- **[v1.0]https://github.com/Gabri-dev-C/gestionale-biblioteca-scolastica** - Versione precedente
+- **[v2.0]https://github.com/Gabri-dev-C/management_school_library_v2.0** - Versione corrente (migliorata)
+- **[v1.0]https://github.com/Gabri-dev-C/management_school_library_v1.0** - Versione precedente
 
 ## Autore e licenza
-
 Gabriele Henriet
 Licenza: MIT
 Sviluppato come progetto didattico per apprendere C++ e architettura software.
